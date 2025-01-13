@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d4ea8f-9d3f-4c6c-acdf-014e9eebff27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts_old/202220206ModelsUpdate/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/PreferencesInternal.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LaserSimpleV11.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ray.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InGameActionsV5.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EmitterReceiverV8.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMoove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/280122b/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/280122b/RayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/280122b/Laser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/PlayerAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/LaserRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/Laser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/Receiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/RayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/Emitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeforeModelUpdate/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LaserRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/202220206ModelsUpdate/Receiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts_old/202220206ModelsUpdate/Laser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Laser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Receiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Emitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Emitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/LaserRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Warper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Laser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/UIActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/RayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Receiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/PieceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Piece.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/InGameActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/since06022022/UiManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kYkCHMmso2zQmcSIaAzoMGgouC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d4ea8f-9d3f-4c6c-acdf-014e9eebff27" name="Default Changelist" comment="" />
+      <created>1605884783043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605884783043</updated>
+      <workItem from="1605884786661" duration="23127000" />
+      <workItem from="1605962111435" duration="26056000" />
+      <workItem from="1605995245801" duration="603000" />
+      <workItem from="1606054268093" duration="599000" />
+      <workItem from="1642878587102" duration="924000" />
+      <workItem from="1642881864359" duration="394000" />
+      <workItem from="1642882281830" duration="83000" />
+      <workItem from="1642882385286" duration="754000" />
+      <workItem from="1642941268128" duration="6328000" />
+      <workItem from="1643050372299" duration="6670000" />
+      <workItem from="1643117715975" duration="20329000" />
+      <workItem from="1643201604147" duration="9589000" />
+      <workItem from="1643285103580" duration="17649000" />
+      <workItem from="1643319168690" duration="640000" />
+      <workItem from="1643383080251" duration="15270000" />
+      <workItem from="1643412854422" duration="3119000" />
+      <workItem from="1643458505397" duration="8886000" />
+      <workItem from="1643550546707" duration="594000" />
+      <workItem from="1643736936911" duration="597000" />
+      <workItem from="1643831366553" duration="1126000" />
+      <workItem from="1644086131787" duration="4814000" />
+      <workItem from="1644147758997" duration="8446000" />
+      <workItem from="1644426121515" duration="14650000" />
+      <workItem from="1644516120683" duration="2186000" />
+      <workItem from="1644594798105" duration="3759000" />
+      <workItem from="1644666791640" duration="27779000" />
+      <workItem from="1644748680960" duration="16404000" />
+      <workItem from="1644858229703" duration="10786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="670" y="230" key="RiderGenerateDialog" timestamp="1644859519123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="670" y="230" key="RiderGenerateDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1644859519123" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1642881804845">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1642881804845" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1644426722786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1644426722786" />
+  </component>
+</project>
